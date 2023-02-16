@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/stickers-store/static/css/main.5017e31a.css",
-    "main.js": "/stickers-store/static/js/main.aed70f18.js",
+    "main.js": "/stickers-store/static/js/main.9b2beebe.js",
     "static/media/7.png": "/stickers-store/static/media/7.60e9455e29a3e2fb6055.png",
     "static/media/1.png": "/stickers-store/static/media/1.672ede4ab0b2ebf2e922.png",
     "static/media/6.png": "/stickers-store/static/media/6.361fcaf6a628f663d9e3.png",
@@ -12,10 +12,10 @@
     "static/media/4.png": "/stickers-store/static/media/4.056db73e561db3c3b8a8.png",
     "index.html": "/stickers-store/index.html",
     "main.5017e31a.css.map": "/stickers-store/static/css/main.5017e31a.css.map",
-    "main.aed70f18.js.map": "/stickers-store/static/js/main.aed70f18.js.map"
+    "main.9b2beebe.js.map": "/stickers-store/static/js/main.9b2beebe.js.map"
   },
   "entrypoints": [
     "static/css/main.5017e31a.css",
-    "static/js/main.aed70f18.js"
+    "static/js/main.9b2beebe.js"
   ]
 }
