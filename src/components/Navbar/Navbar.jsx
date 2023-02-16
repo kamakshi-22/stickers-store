@@ -11,10 +11,10 @@ export function Navbar() {
     return (
         <div className='navbar'>
             <div className="links">
-                <Link to='/'>Shop</Link>
+                <Link to='/shop'>Shop</Link>
                 <Link to='/cart' className='cart'>
                     <ShoppingCart size={32} className="cartIcon" />
-                    <p className='.cartCount'>{ totalAmount}</p>
+                    <p className='.cartCount'>{totalAmount}</p>
                 </Link>
             </div>
         </div>
